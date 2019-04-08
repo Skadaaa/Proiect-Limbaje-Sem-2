@@ -1,0 +1,10 @@
+D:\Proiect Limbaje Sem 2\Proiect Limbaje\Proiect Limbaje\bin\Debug\Proiect Limbaje.exe.config
+D:\Proiect Limbaje Sem 2\Proiect Limbaje\Proiect Limbaje\bin\Debug\Proiect Limbaje.exe
+D:\Proiect Limbaje Sem 2\Proiect Limbaje\Proiect Limbaje\bin\Debug\Proiect Limbaje.pdb
+D:\Proiect Limbaje Sem 2\Proiect Limbaje\Proiect Limbaje\obj\Debug\Proiect Limbaje.csprojAssemblyReference.cache
+D:\Proiect Limbaje Sem 2\Proiect Limbaje\Proiect Limbaje\obj\Debug\Proiect_Limbaje.LoginForm.resources
+D:\Proiect Limbaje Sem 2\Proiect Limbaje\Proiect Limbaje\obj\Debug\Proiect_Limbaje.Properties.Resources.resources
+D:\Proiect Limbaje Sem 2\Proiect Limbaje\Proiect Limbaje\obj\Debug\Proiect Limbaje.csproj.GenerateResource.cache
+D:\Proiect Limbaje Sem 2\Proiect Limbaje\Proiect Limbaje\obj\Debug\Proiect Limbaje.csproj.CoreCompileInputs.cache
+D:\Proiect Limbaje Sem 2\Proiect Limbaje\Proiect Limbaje\obj\Debug\Proiect Limbaje.exe
+D:\Proiect Limbaje Sem 2\Proiect Limbaje\Proiect Limbaje\obj\Debug\Proiect Limbaje.pdb
